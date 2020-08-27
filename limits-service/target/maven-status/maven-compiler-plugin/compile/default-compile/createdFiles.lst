@@ -1,0 +1,3 @@
+com\spring\cloud\limitsservice\rest\LimitsConfigController.class
+com\spring\cloud\limitsservice\model\LimitConfiguration.class
+com\spring\cloud\limitsservice\LimitsServiceApplication.class

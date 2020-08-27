@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.spring.cloud.limitsservice.LimitsServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 24.947 s - in com.spring.cloud.limitsservice.LimitsServiceApplicationTests
